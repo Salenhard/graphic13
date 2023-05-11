@@ -1,0 +1,11 @@
+F:\program\repos\graphics13\graphics13\bin\Debug\graphics13.exe.config
+F:\program\repos\graphics13\graphics13\bin\Debug\graphics13.exe
+F:\program\repos\graphics13\graphics13\bin\Debug\graphics13.pdb
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.AssemblyReference.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.SuggestedBindingRedirects.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.Properties.Resources.resources
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.GenerateResource.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.CoreCompileInputs.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.exe
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.pdb
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.Form1.resources
