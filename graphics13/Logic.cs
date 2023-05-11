@@ -50,7 +50,6 @@ namespace graphics13
         }
         public static void drawTrianlge(System.Drawing.Bitmap bmp, IEnumerable<ITriangle> triangles)
         {
-
             IEnumerator<ITriangle> enumeratorT = triangles.GetEnumerator();
             enumeratorT.MoveNext();
             ITriangle triangle = enumeratorT.Current;

@@ -21,6 +21,9 @@ namespace graphics13
                 bmp = new System.Drawing.Bitmap(bmp.Width, bmp.Height);
                 if (vertices.Count > 3)
                 {
+                    Logic.brezenhem(bmp, vertices[0].X, vertices[0].Y, vertices[1].X, vertices[1].Y, System.Drawing.Color.Black);
+                    Logic.brezenhem(bmp, vertices[0].X, vertices[0].Y, vertices[2].X, vertices[2].Y, System.Drawing.Color.Black);
+                    Logic.brezenhem(bmp, vertices[2].X, vertices[2].Y, vertices[1].X, vertices[1].Y, System.Drawing.Color.Black);
                     Delaunator delaunator = new Delaunator(vertices.ToArray());
                     Logic.drawTrianlge(bmp, delaunator.GetTriangles());
                 }
